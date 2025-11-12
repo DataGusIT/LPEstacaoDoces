@@ -181,7 +181,6 @@ Para dúvidas ou sugestões sobre o projeto:
 ---
 
 <div align="center">
-  ⭐ Se este projeto foi útil, considere dar uma estrela no GitHub!
   <br><br>
   Desenvolvido por Gustavo Moreno
 </div>
